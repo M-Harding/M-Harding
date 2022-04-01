@@ -9,6 +9,7 @@ Languages
 
 Databases
 > ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 Tools
 > ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -20,6 +21,7 @@ Tools
 
 Cloud
 > ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
