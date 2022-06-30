@@ -25,6 +25,6 @@ Cloud
 
 ---
 
-<a href="www.linkedin.com/in/mark-harding44">
+<a href="https://www.linkedin.com/in/mark-harding44">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
